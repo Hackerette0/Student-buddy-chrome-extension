@@ -1,7 +1,4 @@
 # StudyBuddy | Chrome extension for AI notetaking on any video feed
-Winning submission for Hack the North 2021, created by John Zhang ([@john-zhang-uoft](https://github.com/john-zhang-uoft)), Justin Leung ([@leungjch](https://github.com/leungjch)), Sneha Patel ([@snehanpatel](https://github.com/snehanpatel)), and Srihari Vishnu ([@sriharivishnu](https://github.com/sriharivishnu)). The team collaborated using a LiveShare session hosted by Justin, so the commit log is not representative of each member's contributions.
-
-[See full Devpost submission here.](https://devpost.com/software/studdybuddy-wvsny2)
 
 ## 💡 Inspiration 💡
 Due to the COVID-19 pandemic, many post secondary institutions have shifted online, meaning more online lectures and watching videos to learn. However, as university students ourselves, we often found that balancing watching lectures and taking neat, high quality notes is really, really hard. 
